@@ -1,5 +1,4 @@
-# Criando-uma-an-lise-de-IA
-Criando uma análise de IA(Bootcamo_DIO)
+# Criando uma análise de IA(Bootcamo_DIO)
 
 # Pontos de extremidade e análise de dados - IA treinada do Microsoft Azure
 
